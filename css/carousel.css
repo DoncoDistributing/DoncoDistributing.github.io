@@ -8,6 +8,10 @@ body {
   color: #5a5a5a;
 }
 
+.bg-white {
+  background-color: white;
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -20,6 +24,9 @@ body {
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
+  background-color: rgba(0,0,0,0.5);
+  padding: 20px;
+  border-radius: 5px;
 }
 
 /* Declare heights because of positioning of img element */
