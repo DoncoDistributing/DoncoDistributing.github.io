@@ -8,10 +8,6 @@ body {
   color: #5a5a5a;
 }
 
-body.clear-nav {
-  padding-top: 6rem;
-}
-
 .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
   color: rgb(12, 66, 172);
 }
@@ -99,8 +95,5 @@ body.clear-nav {
 }
 
 @media (min-width: 62em) {
-  .featurette-heading {
-    margin-top: 7rem;
-  }
 }
 
